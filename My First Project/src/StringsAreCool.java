@@ -18,8 +18,11 @@ public class StringsAreCool {
         codenific = codenific. trim();
         System.out.println("5. "+codenific);
 
-        System . out . println( "6. " + codenific. toUpperCase());
-        System . out . println( "7. " + codenific. toLowerCase());
+        System.out.println( "6. " + codenific. toUpperCase());
+        System.out.println( "7. " + codenific. toLowerCase());
+
+        System.out.println( "-> " + codenific. length());
+
 
 
 
