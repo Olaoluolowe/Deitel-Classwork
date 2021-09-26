@@ -22,6 +22,7 @@ public class StringsAreCool {
         System.out.println( "7. " + codenific. toLowerCase());
 
         System.out.println( "-> " + codenific. length());
+        int ola =30;
 
 
 
