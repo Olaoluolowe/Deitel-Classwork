@@ -10,7 +10,7 @@ public class StringsAreCool {
         String onlyCodenific = codenific.substring(0, 9);
         System.out.println("3. "+ onlyCodenific);
 
-        String onlyDotCom =  codenific.substring(9, 13);
+        String onlyDotCom =  codenific.substring(9, 12);
         System . out . println( "4." + onlyDotCom);
 
 
@@ -22,6 +22,7 @@ public class StringsAreCool {
         System.out.println( "7. " + codenific. toLowerCase());
 
         System.out.println( "-> " + codenific. length());
+        int ola = 20;
 
 
 
