@@ -20,7 +20,7 @@ public class StringsAreCool {
 
         System . out . println( "6. " + codenific. toUpperCase());
         System . out . println( "7. " + codenific. toLowerCase());
-teste ihhsafdhjsfa
+
 
 
     }
